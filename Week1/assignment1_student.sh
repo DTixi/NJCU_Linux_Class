@@ -36,6 +36,8 @@ fi
 computedSum=$(md5sum $zipName | cut TODO_EDIT_THE_ARGUMENTS_PASSED_TO_cut )
 
 # TODO3 : check if the $expectedSum and $computedSum are not equal.
+# Notice that expectedSum and computedSum are not numeric, they are strings. 
+# i.e. notice that there are letters in expectedSum. You must use string comparisons.
 if [ TODO_CHECK_IF_SUMS_ARENT_EQUAL ]
 then
     echo "Bad md5sum found"
