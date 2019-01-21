@@ -1,0 +1,6 @@
+1. Write a bash one-liner to get the pidofs of all *ython* processes running on your machine. i.e. all jython, python, python2, python3, cython, etc.
+
+2. Write a bash program to sent the CONT signal to any *ython process whose pid is a multiple of 2, and a STOP signal to any process with an odd pid.
+
+3. Write a bash program to delete any file under the pwd that contains a string in the format "DD-MM-YYYY" or "DD-MM-YY", where D, M, Y are integers that can represent a valid date. 
+i.e. You shouldn't delete a file because you found "99-99-9999" in it. Similarly, you shouldn't delete a file containing 30-02-1988" ( there is no Feb 30th ). You should delete files containing 01-01-2011 or 01-01-11.
