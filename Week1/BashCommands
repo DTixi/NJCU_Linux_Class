@@ -1,0 +1,28 @@
+Pipe history to grep to  the indices of commands you ran.
+
+`history | grep command`
+
+For example, if I want to see all the `ssh` commands I've ran in the past I would type:
+
+`history | grep ssh`
+
+and to see all the downloads I've completed in the past I would type
+
+`history | grep wget`
+
+Then to run an old command - for example, if I type `history | grep ssh` on my machine I see:
+
+     1402  ssh melvyniandrag@104.154.212.103
+     1436  history | grep ssh
+     1437  history | grep ssh | grep 161
+     1438  ssh melvyn@supercomputer
+     1612  history | grep ssh
+     1613  ssh root@204.48.31.98
+     1639  history | grep ssh
+     1640  ssh root@204.48.31.98
+     1641  ssh -p 2220 bandit0@bandit.labs.overthewire.org
+     1644  history | grep ssh | grep 161
+     1646  ssh 192.168.1.212
+     1719  ssh melvyniandrag@104.198.205.171
+     1759  ssh root@204.48.31.98
+     2002  history | grep ssh
