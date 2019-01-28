@@ -1,4 +1,7 @@
 Set up a git server on your cloud machine as instructed here:
+https://git-scm.com/book/en/v2/Git-on-the-Server-The-Protocols
+https://git-scm.com/book/en/v2/Git-on-the-Server-Getting-Git-on-a-Server
+https://git-scm.com/book/en/v2/Git-on-the-Server-Generating-Your-SSH-Public-Key
 https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server
 
 Create a repo on that machine containing a few cool ascii cats from here:
