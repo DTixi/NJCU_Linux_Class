@@ -28,6 +28,9 @@ For Information about awk/sed/grep I recommend:
 A good video about BASH:
 1. Derek Banas "Shell Scripting Tutorial" - https://www.youtube.com/watch?v=hwrnmQumtPw
 
+The standard recommended git book, available online for free:
+1. ProGit - https://git-scm.com/book/en/v2
+
 I've planned this class around the Linux Foundation System Admin Certification guidelines. This is a list of things you need to know to pass a Linux Foundation certification exam. The pdf is in this repository as well.
 
 Also, we won't have time for it in this class, but there's a great tutorial online called "Beej's guide to network programming". If you like network programming in C, or plan to do it in the future, I love this tutorial, I learned a ton from it and hope we have time to take a peek at it this semester. http://beej.us/guide/bgnet/pdf/bgnet_A4.pdf
