@@ -6,6 +6,8 @@ https://www.asciiart.eu/
 
 Email me a few short sentences about what git is and the importance of version control, as well as instructions for how I can clone the repo to my laptop to verify your repo works.
 
+I've added my id_rsa.pub to this repo so you can put it on the server.
+
 To pass this assignment:
 1. I must be able to clone the repository from your machine and see that there are some nice looking cats in the repo, in files like tabby.txt, kitty.txt, etc.
 
