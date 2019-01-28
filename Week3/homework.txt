@@ -1,4 +1,12 @@
 Set up a git server on your cloud machine as instructed here:
 https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server
 
-Email me instructions
+Create a repo on that machine containing a few cool ascii cats from here:
+https://www.asciiart.eu/
+
+Email me a few short sentences about what git is and the importance of version control, as well as instructions for how I can clone the repo to my laptop to verify your repo works.
+
+To pass this assignment:
+1. I must be able to clone the repository from your machine and see that there are some nice looking cats in the repo, in files like tabby.txt, kitty.txt, etc.
+
+2. You must convince me in a paragraph or less that you have a rough idea of the importance of version control.
