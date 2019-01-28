@@ -1,6 +1,21 @@
-1. Write a bash one-liner to get the pidofs of all *ython* processes running on your machine. i.e. all jython, python, python2, python3, cython, etc.
+Homework 2: Due via email by 7PM on February 7th 2019.
+
+0. Write a bash command to find the pids of all running python processes ( not python2 not python3, just python ).
+
+1. Write a bash one-liner to get the pids of all *ython* processes running on your machine. i.e. all jython, python, python2, python3, cython, etc.
 
 2. Write a bash program to sent the CONT signal to any *ython process whose pid is a multiple of 2, and a STOP signal to any process with an odd pid.
+  hint:
+  How do you list all running processes?
+  How do you filter processes to show only the ones you are interested in?
+  How do you extract a column from a table of data in linux? You may want to use cut -c.
+  What do you know about the last digit of an even number? Do you know how to pattern match the last digit of a string?
+  How do you apply a command to a series of inputs from stdin? hint: it rhymes with "xargs"
 
-3. Write a bash program to delete any file under the pwd that contains a string in the format "DD-MM-YYYY" or "DD-MM-YY", where D, M, Y are integers that can represent a valid date. 
-i.e. You shouldn't delete a file because you found "99-99-9999" in it. Similarly, you shouldn't delete a file containing 30-02-1988" ( there is no Feb 30th ). You should delete files containing 01-01-2011 or 01-01-11.
+3. Write a bash program to delete any file under the pwd that contains a string in the format "XX-XX-XX" where X is a numeric character.
+  hint: 
+  Is there a way to get grep to return a list of filenames corresponding to matched patterns?
+  How do you apply a command to a series of inputs from stdin? hint: it rhymes with "xargs"
+
+
+4. Write a bash oneliner to STOP all processes belonging to user "joseph".
