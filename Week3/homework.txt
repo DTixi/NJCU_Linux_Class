@@ -1,0 +1,4 @@
+Set up a git server on your cloud machine as instructed here:
+https://git-scm.com/book/en/v2/Git-on-the-Server-Setting-Up-the-Server
+
+Email me instructions
