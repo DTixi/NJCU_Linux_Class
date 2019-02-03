@@ -1,3 +1,5 @@
+Part One:
+
 You are a hacker.
 You want to run some jobs overnight on your victim's machine while they aren't at work so they don't notice to heavy load on their machine.
 Implement a way to stop all of a user's jobs at 9AM everyday and restart them at 5PM.
@@ -5,3 +7,7 @@ Implement a way to stop all of a user's jobs at 9AM everyday and restart them at
 Fork and clone the NJCU_Linux_Class repo, add your solution under Week3/YourName
 
 Add files, brief scripts / explanatory notes / etc. illustrating how you would do this. Make a pull request to the class repo before 7PM on valentine's day.
+
+Part Two:
+
+Read Chapters 1 and 2 of ProGit. https://git-scm.com/book/en/v2 . For the rest of the class you are expected to have a working understanding of git and eventually you will be tested. Read the chapters and start using git to get comfortable with this tool.
